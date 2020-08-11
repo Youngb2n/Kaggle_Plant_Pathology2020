@@ -440,6 +440,4 @@ Train, Validation Accuracy 높은 값을 받을 수 있었으며 Test 결과도 
 
 각 히스토리를 확인한 결과 모든 면에서 가장 높은 결과를 얻으며 가장 효율적이며 많이 사용하는 Adam이 데이터의 가중치 최적화 값을 찾을 수 있었음.
 
-결과적으로 이 대회기간 내에서 다음과 같은 성적으로 마무리를 하였음.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/86772058-47c1e580-c08e-11ea-89c1-c9d228a8dc97.png" width="80%"></p>
